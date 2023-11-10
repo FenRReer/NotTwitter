@@ -1,0 +1,13 @@
+
+body {
+    color: #113;
+    --bs-body-bg: #FFF2D8;
+}
+
+input {
+    --bs-body-bg: white;
+}
+
+.card-top{
+    --bs-body-bg: #EAD7BB;
+}
